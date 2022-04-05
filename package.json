@@ -1,0 +1,24 @@
+{
+    "name": "intro-unit-testing",
+    "version": "1.0.0",
+    "description": "jest intro",
+    "main": "index.js",
+    "scripts": {
+        "test": "jest"
+    },
+    "keywords": [
+        "js",
+        "jest",
+        "unit",
+        "testing"
+    ],
+    "author": "MVE",
+    "license": "ISC",
+    "devDependencies": {
+        "@types/jest": "^27.4.1",
+        "jest": "^27.5.1"
+    },
+    "dependencies": {
+        "axios": "^0.26.1"
+    }
+}
